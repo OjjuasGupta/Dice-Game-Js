@@ -14,4 +14,4 @@ document.querySelector("h1").innerHTML="Player1 WINS!";
 else if(randomNumber1<randomNumber2)
 document.querySelector("h1").innerHTML="Player2 WINS!";
 else
-document.querySelector("h1").innerHTML="ITS A DRAW!"
+document.querySelector("h1").innerHTML="ITS A DRAW!!!"
